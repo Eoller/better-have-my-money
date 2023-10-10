@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/better-have-my-money/static/css/main.073c9b0a.css",
-    "main.js": "/better-have-my-money/static/js/main.be076e93.js",
+    "main.js": "/better-have-my-money/static/js/main.1beee911.js",
     "static/js/787.d1127f14.chunk.js": "/better-have-my-money/static/js/787.d1127f14.chunk.js",
     "static/media/logo.svg": "/better-have-my-money/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/better-have-my-money/index.html",
     "main.073c9b0a.css.map": "/better-have-my-money/static/css/main.073c9b0a.css.map",
-    "main.be076e93.js.map": "/better-have-my-money/static/js/main.be076e93.js.map",
+    "main.1beee911.js.map": "/better-have-my-money/static/js/main.1beee911.js.map",
     "787.d1127f14.chunk.js.map": "/better-have-my-money/static/js/787.d1127f14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.be076e93.js"
+    "static/js/main.1beee911.js"
   ]
 }
